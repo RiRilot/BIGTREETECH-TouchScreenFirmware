@@ -73,7 +73,7 @@
 /**
  *  show banner text at the top of the TFT in Marlin Mode.
  */
-// #define ST7920_SHOW_BANNER true //to enabled: true | to disabled: false
+ #define ST7920_SHOW_BANNER false //to enabled: true | to disabled: false
 /**
  * Run Marlin Mode in Fullscreen
  *
